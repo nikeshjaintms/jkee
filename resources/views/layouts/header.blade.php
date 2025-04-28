@@ -1,4 +1,4 @@
-<header class="site-header header-two">
+    <header class="site-header header-two">
     <nav class="navbar navbar-expand-lg navbar-light header-navigation stricky">
         <div class="container clearfix">
             <!-- Brand and toggle get grouped for better mobile display -->
