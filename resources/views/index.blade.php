@@ -107,6 +107,22 @@
                         Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
                 </div><!-- /.single-about-style-three -->
             </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <div class="single-about-style-three">
+                    <h3>Building Creative & Professional</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
+                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div><!-- /.single-about-style-three -->
+            </div><!-- /.col-lg-4 -->
+            <div class="col-lg-4">
+                <div class="single-about-style-three">
+                    <h3>Building Creative & Professional</h3>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
+                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
+                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                </div><!-- /.single-about-style-three -->
+            </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->
     </div><!-- /.container -->
 </section><!-- /.about-style-three -->
