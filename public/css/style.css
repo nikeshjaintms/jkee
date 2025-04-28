@@ -4,33 +4,33 @@
 ||||||||||||||||||||||||||||              TABLE OF CONTENT                  ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************
 ****************************************************************************************************************
-* 1. miscelnious styles 
-* 2. header styles 
-* 3. slider styles 
-* 4. about styles 
-* 5. services styles 
-* 6. video styles 
-* 7. footer styles 
-* 8. contact styles 
-* 9. blog styles 
-* 10. project styles 
-* 11. testimonials styles 
-* 12. trusted clients styles 
-* 13. faq styles 
-* 14. work process styles 
-* 15. brand carousel styles 
-* 16. cta styles 
-* 17. team styles 
-* 18. featured styles 
-* 19. funfact styles 
-* 20. inner banner styles 
-* 21. history styles 
-* 22. sidebar styles 
+* 1. miscelnious styles
+* 2. header styles
+* 3. slider styles
+* 4. about styles
+* 5. services styles
+* 6. video styles
+* 7. footer styles
+* 8. contact styles
+* 9. blog styles
+* 10. project styles
+* 11. testimonials styles
+* 12. trusted clients styles
+* 13. faq styles
+* 14. work process styles
+* 15. brand carousel styles
+* 16. cta styles
+* 17. team styles
+* 18. featured styles
+* 19. funfact styles
+* 20. inner banner styles
+* 21. history styles
+* 22. sidebar styles
 ****************************************************************************************************************
 ||||||||||||||||||||||||||||            End TABLE OF CONTENT                ||||||||||||||||||||||||||||||||||||
 ****************************************************************************************************************/
-/************************** 
-* 1. miscelnious styles 
+/**************************
+* 1. miscelnious styles
 ***************************/
 body {
   font-family: "Barlow Condensed";
@@ -162,7 +162,7 @@ hr.style-one {
 }
 .sec-title h2 {
   color: #002c42;
-  font-size: 60px;
+  font-size: 45px;
   font-weight: 600;
   margin: 0;
 }
@@ -261,8 +261,8 @@ a[href^="https://maps.google.com/maps"] {
   background: none !important;
 }
 
-/************************** 
-* 2. header styles 
+/**************************
+* 2. header styles
 ***************************/
 .header-navigation {
   background-color: transparent;
@@ -1015,8 +1015,8 @@ a[href^="https://maps.google.com/maps"] {
   margin-left: 100px;
 }
 
-/************************** 
-* 3. slider styles 
+/**************************
+* 3. slider styles
 ***************************/
 #minimal-bootstrap-carousel {
   margin-top: 0px;
@@ -1324,8 +1324,8 @@ a[href^="https://maps.google.com/maps"] {
           animation-delay: 1s;
 }
 
-/************************** 
-* 4. about styles 
+/**************************
+* 4. about styles
 ***************************/
 .about-style-one p {
   margin: 0;
@@ -1809,7 +1809,7 @@ a[href^="https://maps.google.com/maps"] {
   margin-top: 20px;
 }
 .about-style-six p {
-  margin: 40px 0;
+  margin: 15px 0;
 }
 .about-style-six .content-block {
   padding-left: 70px;
@@ -1826,8 +1826,8 @@ a[href^="https://maps.google.com/maps"] {
   }
 }
 
-/************************** 
-* 5. services styles 
+/**************************
+* 5. services styles
 ***************************/
 .single-service-style-one .top-box {
   box-shadow: 0px 0px 30px rgba(0, 0, 0, 0.03);
@@ -2395,8 +2395,8 @@ a[href^="https://maps.google.com/maps"] {
   color: #002c42;
 }
 
-/************************** 
-* 6. video styles 
+/**************************
+* 6. video styles
 ***************************/
 .video-block-style-one {
   background: #002c42 url(../images/background-1-1.jpg) center center no-repeat fixed;
@@ -2436,8 +2436,8 @@ a[href^="https://maps.google.com/maps"] {
   border-color: rgba(0, 0, 0, 0.2);
 }
 
-/************************** 
-* 7. footer styles 
+/**************************
+* 7. footer styles
 ***************************/
 .footer-subscribe-wrapper {
   background: #001d2b;
@@ -2669,8 +2669,8 @@ a[href^="https://maps.google.com/maps"] {
   padding-bottom: 40px;
 }
 
-/************************** 
-* 8. contact styles 
+/**************************
+* 8. contact styles
 ***************************/
 #home-one-map {
   width: 100%;
@@ -2739,8 +2739,8 @@ a[href^="https://maps.google.com/maps"] {
   display: none !important;
 }
 
-/************************** 
-* 9. blog styles 
+/**************************
+* 9. blog styles
 ***************************/
 .single-blog-style-one .image-block {
   position: relative;
@@ -3489,8 +3489,8 @@ a[href^="https://maps.google.com/maps"] {
   display: none !important;
 }
 
-/************************** 
-* 10. project styles 
+/**************************
+* 10. project styles
 ***************************/
 .project-style-one .row {
   margin-left: -1px;
@@ -3931,8 +3931,8 @@ a[href^="https://maps.google.com/maps"] {
   }
 }
 
-/************************** 
-* 11. testimonials styles 
+/**************************
+* 11. testimonials styles
 ***************************/
 .single-testimonial-style-one {
   position: relative;
@@ -4189,8 +4189,8 @@ a[href^="https://maps.google.com/maps"] {
   margin-bottom: 60px;
 }
 
-/************************** 
-* 12. trusted clients styles 
+/**************************
+* 12. trusted clients styles
 ***************************/
 .trusted-clients .image-block-wrapper {
   position: relative;
@@ -4379,8 +4379,8 @@ a[href^="https://maps.google.com/maps"] {
   margin: 42px 0;
 }
 
-/************************** 
-* 13. faq styles 
+/**************************
+* 13. faq styles
 ***************************/
 .faq-style-one {
   margin-left: 120px;
@@ -4456,8 +4456,8 @@ a[href^="https://maps.google.com/maps"] {
   color: #fff;
 }
 
-/************************** 
-* 14. work process styles 
+/**************************
+* 14. work process styles
 ***************************/
 .work-process .row-outer {
   border: 2px solid #f3f3f3;
@@ -4524,8 +4524,8 @@ a[href^="https://maps.google.com/maps"] {
   margin-right: auto;
 }
 
-/************************** 
-* 15. brand carousel styles 
+/**************************
+* 15. brand carousel styles
 ***************************/
 .brand-carousel-one {
   padding: 90px 0;
@@ -4534,8 +4534,8 @@ a[href^="https://maps.google.com/maps"] {
   margin: 0;
 }
 
-/************************** 
-* 16. cta styles 
+/**************************
+* 16. cta styles
 ***************************/
 .cta-style-one {
   position: relative;
@@ -4713,8 +4713,8 @@ a[href^="https://maps.google.com/maps"] {
   margin-bottom: 60px;
 }
 
-/************************** 
-* 17. team styles 
+/**************************
+* 17. team styles
 ***************************/
 .single-team-style-one {
   margin-bottom: 30px;
@@ -4838,8 +4838,8 @@ a[href^="https://maps.google.com/maps"] {
   transition-delay: .5s;
 }
 
-/************************** 
-* 18. featured styles 
+/**************************
+* 18. featured styles
 ***************************/
 .featured-style-one-image-block {
   position: relative;
@@ -4992,8 +4992,8 @@ a[href^="https://maps.google.com/maps"] {
   line-height: 26px;
 }
 
-/************************** 
-* 19. funfact styles 
+/**************************
+* 19. funfact styles
 ***************************/
 .fun-fact-style-one {
   background: #002c42 url(../images/footer-bg-1-1.jpg) center center no-repeat;
@@ -5030,8 +5030,8 @@ a[href^="https://maps.google.com/maps"] {
   font-weight: normal;
 }
 
-/************************** 
-* 20. inner banner styles 
+/**************************
+* 20. inner banner styles
 ***************************/
 .inner-banner {
   background: #002c42 url(../images/inner-banner-1-1.jpg) center top no-repeat;
@@ -5094,8 +5094,8 @@ a[href^="https://maps.google.com/maps"] {
   color: #fff;
 }
 
-/************************** 
-* 21. history styles 
+/**************************
+* 21. history styles
 ***************************/
 .single-history-one .image-block {
   position: relative;
@@ -5216,8 +5216,8 @@ a[href^="https://maps.google.com/maps"] {
   transition-delay: .5s;
 }
 
-/************************** 
-* 22. sidebar styles 
+/**************************
+* 22. sidebar styles
 ***************************/
 @media (max-width: 991px) {
   .sidebar {
