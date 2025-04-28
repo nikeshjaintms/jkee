@@ -82,45 +82,10 @@
                 </div><!-- /.text-block -->
             </div><!-- /.col-lg-3 -->
         </div><!-- /.row -->
-        <div class="row">
-            <div class="col-lg-4">
+        <div class="row" style="justify-content: space-around;">
+            <div class="col-lg-12">
                 <div class="single-about-style-three">
-                    <h3>The Best Civil Engineering</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
-                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div><!-- /.single-about-style-three -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <div class="single-about-style-three">
-                    <h3>High Quality Constructors</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
-                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div><!-- /.single-about-style-three -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <div class="single-about-style-three">
-                    <h3>Building Creative & Professional</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
-                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div><!-- /.single-about-style-three -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <div class="single-about-style-three">
-                    <h3>Building Creative & Professional</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
-                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                </div><!-- /.single-about-style-three -->
-            </div><!-- /.col-lg-4 -->
-            <div class="col-lg-4">
-                <div class="single-about-style-three">
-                    <h3>Building Creative & Professional</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit vehicula est eget felis vehicula
-                        imperdiet non lacus at quam gravida porta usce viverra consectetur turpis id lacinia.
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <p>Welcome to Jay Khodiyar Electrical & Electronics, a trusted name in the field of electrical and electronic solutions. Established with a vision to deliver innovation, quality, and reliability, we proudly serve as both manufacturers and traders of a wide range of electrical and electronic products. With years of experience and a deep understanding of industry standards, we specialize in producing durable, efficient, and cost-effective products that meet the evolving needs of our clients. Our trading division complements our manufacturing strength by offering a curated selection of high-performance products sourced from reputable brands. At Jay Khodiyar, customer satisfaction is at the core of everything we do. We are committed to maintaining excellence in product quality, timely delivery, and after-sales support. Whether you are looking for custom manufacturing solutions or ready-to-use components, we are here to power your progress.</p>
                 </div><!-- /.single-about-style-three -->
             </div><!-- /.col-lg-4 -->
         </div><!-- /.row -->

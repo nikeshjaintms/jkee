@@ -11,4 +11,6 @@ Route::controller(App\Http\Controllers\HomeController::class)->group(function ()
     Route::get('/', 'index')->name('home');
     Route::get('/about', 'about')->name('about');
     Route::get('/contact', 'contact')->name('contact');
+    Route::get('/our_clients', 'ourClients')->name('our_clients');
+
 });
