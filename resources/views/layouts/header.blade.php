@@ -30,9 +30,9 @@
                             <li><a href="service-details.html">Service Details</a></li>
                         </ul><!-- /.sub-menu -->
                     </li>
-                    <li>
+                    {{-- <li>
                         <a href="{{route('our_clients')}}">Our Clients</a>
-                    </li>
+                    </li> --}}
                     <li><a href="{{route('contact')}}">Contact</a></li>
                 </ul>
             </div><!-- /.navbar-collapse -->

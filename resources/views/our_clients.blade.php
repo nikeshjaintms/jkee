@@ -93,6 +93,6 @@
             </div><!-- /.row -->
         </div><!-- /.row-outer -->
     </div><!-- /.container -->
-</section><!-- /.work-process sec-pad -->
+</section>
 
 @endsection
