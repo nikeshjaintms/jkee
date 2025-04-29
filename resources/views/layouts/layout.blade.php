@@ -29,22 +29,22 @@
     <link href="https://fonts.googleapis.com/css?family=Barlow+Condensed:300,400,500,600,700,800,900" rel="stylesheet">
 
 
-    <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
-    <link rel="stylesheet" type="text/css" href="css/animate.css">
-    <link rel="stylesheet" type="text/css" href="css/magnific-popup.css">
-    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css">
-    <link rel="stylesheet" type="text/css" href="css/hover-min.css">
-    <link rel="stylesheet" type="text/css" href="plugins/facdori-icon/style.css">
-    <link rel="stylesheet" type="text/css" href="plugins/bands-icon/style.css">
-    <link rel="stylesheet" type="text/css" href="css/owl.carousel.css">
-    <link rel="stylesheet" type="text/css" href="css/owl.theme.default.min.css">
-    <link rel="stylesheet" type="text/css" href="css/bootstrap-select.min.css">
-    <link rel="stylesheet" type="text/css" href="plugins/flag-icon-css/css/flag-icon.min.css">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/bootstrap.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/animate.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/magnific-popup.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/font-awesome.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/hover-min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('plugins/facdori-icon/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('plugins/bands-icon/style.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/owl.carousel.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/owl.theme.default.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('css/bootstrap-select.min.css')}}">
+    <link rel="stylesheet" type="text/css" href="{{asset('plugins/flag-icon-css/css/flag-icon.min.css')}}">
 
 
 
-    <link rel="stylesheet" href="css/style.css">
-    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="stylesheet" href="{{asset('css/style.css')}}">
+    <link rel="stylesheet" href="{{asset('css/responsive.css')}}">
 </head>
 
 <body>
