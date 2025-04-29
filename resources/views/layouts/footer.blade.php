@@ -55,7 +55,7 @@
         <div class="container ">
             <div class="container-inner clearfix">
                 <div class="left-content float-left">
-                    <p>&copy; Copyright {{ date('Y') }} by Techomax Solution</p>
+                    <p>&copy; Copyright {{ date('Y') }} All Right Reserved. Design & Developed by Techomax Solution</p>
                 </div><!-- /.left-content float-left -->
                 <div class="right-content float-right">
                     <div class="social">
