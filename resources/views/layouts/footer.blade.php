@@ -55,7 +55,11 @@
         <div class="container ">
             <div class="container-inner clearfix">
                 <div class="left-content float-left">
+<<<<<<< HEAD
                     <p>&copy; Copyright {{ date('Y') }} by Techomax Solution</p>
+=======
+                    <p>&copy; Copyright {{ date('Y') }} by TemplatePath.net</p>
+>>>>>>> 8b4cd67b1475a9a9877f1df2af48a1c18b201ebe
                 </div><!-- /.left-content float-left -->
                 <div class="right-content float-right">
                     <div class="social">
