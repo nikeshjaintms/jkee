@@ -30,7 +30,7 @@
                 </div><!-- /.single-contact-infos -->
                 <div class="single-contact-infos">
                     <h3>Send us email for any kind of inquiry</h3>
-                    <p>jkee.marketing@gmail.</p>
+                    <p>jkee.marketing@gmail.com</p>
                 </div><!-- /.single-contact-infos -->
             </div><!-- /.col-lg-5 -->
             <div class="col-lg-7">
