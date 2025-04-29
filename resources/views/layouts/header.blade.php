@@ -22,12 +22,11 @@
                         <a href="{{route('about')}}">About</a>
                     </li>
                     <li>
-                        <a href="services.html">Our Services</a>
+                        <a href="">Our Services</a>
                         <ul class="sub-menu">
-                            <li><a href="service.html">Services 01</a></li>
-                            <li><a href="service2.html">Services 02</a></li>
-                            <li><a href="service3.html">Services 03</a></li>
-                            <li><a href="service-details.html">Service Details</a></li>
+                            <li><a href="{{ route('services') }}">Electricals & Electronics</a></li>
+                            <li><a href="{{ route('service2') }}">Engineering</a></li>
+                            <li><a href="{{ route('service3') }}">Motor Rewinding</a></li>
                         </ul><!-- /.sub-menu -->
                     </li>
                     {{-- <li>
