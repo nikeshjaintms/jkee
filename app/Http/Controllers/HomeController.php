@@ -28,7 +28,17 @@ class HomeController extends Controller
 
     public function services()
     {
-        return view('services');
+        return view('service1');
+    }
+
+    public function service2()
+    {
+        return view('service2');
+    }
+
+    public function service3()
+    {
+        return view('service3');
     }
 
 }
