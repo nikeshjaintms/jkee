@@ -7,8 +7,9 @@
                         <div class="widget-title">
                             <h3>About Us</h3>
                         </div><!-- /.widget-title -->
-                        <p>We are the leaders in the building industries and factories. We’re wordl wide. We
-                            never give up on the challenges.</p>
+                        <p>Welcome to Jay Khodiyar Electrical & Electronics, a trusted name in the field of electrical and electronic solutions.
+                            Established with a vision to deliver innovation, quality, and reliability, we proudly serve as both manufacturers and traders of a wide range of electrical and electronic products.
+                            </p>
                         {{-- <img src="images/footer-map-1-1.jpg" alt="Awesome Image" /> --}}
                         {{-- <a href="#" class="find-us-link"><i class="fa fa-map-marker"></i>Find us on Map</a> --}}
                     </div><!-- /.footer-widget -->
