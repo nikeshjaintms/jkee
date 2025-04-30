@@ -55,7 +55,7 @@
         <div class="container ">
             <div class="container-inner clearfix">
                 <div class="left-content float-left">
-                    <p>&copy;JKEE Group Copyright {{ date('Y') }} All Right Reserved. Design & Developed by Techomax Solution</p>
+                    <p>JKEE Group  &copy; {{ date('Y') }} All Right Reserved. Design & Developed by <a href="https://techomaxsolution.com/" target="_blank" title="Techomax Solution">Techomax Solution</a></p>
                 </div><!-- /.left-content float-left -->
                 <div class="right-content float-right">
                     <div class="social">
